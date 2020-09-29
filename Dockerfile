@@ -15,7 +15,6 @@ RUN apt-get update && apt-get install -y \
     libfreetype6-dev \
     locales \
     zip \
-    php-curl \
     jpegoptim optipng pngquant gifsicle \
     vim \
     unzip \
